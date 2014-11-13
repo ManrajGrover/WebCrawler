@@ -1,4 +1,4 @@
 WebCrawler
 ==========
 
-WebCrawler using Python 
+WebCrawler implementation in Python 
